@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">CoffeeOrderingApp_B</string>
+    <string name="Enter_your_name">Enter your name</string>
+    <string name="Enter_your_address">Enter your address</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="textQuantity">Quantity</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="Quantity">1</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_summary_text">Per Cup = Rs: 25</string>
+    <string name="order">Order</string>
+    <string name="summary_text" />
+</resources>
